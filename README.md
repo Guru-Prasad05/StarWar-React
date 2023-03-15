@@ -1,1 +1,1 @@
-fetch from Starwar api 
+<strong>fetch from Starwar api </strong>
